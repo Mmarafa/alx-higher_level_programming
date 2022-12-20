@@ -1,8 +1,7 @@
 #!/usr/bin/python3
-# 0-square.py by Ehoneah Obed
-"""Defines a square """
+""" this module defines a empty class square """
 
 
 class Square:
-    """Does nothing"""
+    """ empty class for task 0 """
     pass
